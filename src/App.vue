@@ -11,18 +11,12 @@
 <style>
 header{
     height: 50px;
-    line-height: 50px;
-    background-color: cadetblue;
 }
 main{
-    height: 50px;
-    line-height: 50px;
-    background-color: coral;
+    min-height: 50px;
 }
 footer{
     height: 50px;
-    line-height: 50px;
-    background-color: darkgreen;
 }
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
