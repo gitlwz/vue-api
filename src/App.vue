@@ -3,6 +3,7 @@
     <div id="nav">
       <router-link to="/">具名插槽</router-link> |
       <router-link to="/about">作用域插槽</router-link>
+      <router-link to="/is">is</router-link>
     </div>
     <router-view/>
   </div>

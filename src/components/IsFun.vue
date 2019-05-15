@@ -14,16 +14,13 @@
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "IsFun",
   props: {
     msg: String
   },
   mounted(){
-      this.$nextTick(function () {
-          console.log("************",this)
-     })
+      
   }
 };
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
